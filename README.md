@@ -31,7 +31,7 @@ This application allows users to manage their daily tasks efficiently by adding,
 Clone the repository:
 
 ```
-git clone https://github.com/08rahulyadav/react-task-manager.git
+https://github.com/08rahulyadav/task-manager.git
 ```
 
 Install dependencies:
@@ -57,7 +57,7 @@ npm run build
 The project is deployed on **Vercel**.
 
 Live Link:
-https://react-task-manager-one-orpin.vercel.app
+https://task-manager-rho-amber.vercel.app/
 
 ## 👨‍💻 Author
 
